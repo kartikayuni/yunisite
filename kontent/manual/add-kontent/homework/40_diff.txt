@@ -1,3 +1,0 @@
-Señor Rodriguez ~~es~~ **era** católico, pero ~~es~~ **está** muerto. 
-Señor Díaz está vivo, pero hoy no ~~es~~ **está** católico.
-

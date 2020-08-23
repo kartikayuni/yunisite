@@ -15,21 +15,14 @@
 #
 # homepage: is the primary external URL of an author
 #
-#authors:
-#    tatkins:
-#        name: 'Tommy Atkins'
-#    mmustermann:
-#        name: 'Max Mustermann'
-#        image: /img/mustermann.jpg
-#        homepage: http://example.com/dipl-ingeneur-informatiker/mmustermann
-#        social:
-#        - name: LinkedIn
-#          url: http://example.com/mmustermann
-#        - name: Xing
-#          url: http://example.net/mmustermann
-#    vpupkin:
-#        name: 'Vassily Pupkin'
-#        image: https://gravatar.com/avatar?d=mp&s=200
-#        homepage: http://example.com/vpupkin
-#    mysterious:
-
+yunikartika:
+    name: 'Yuni Kartika'
+    image: /img/yunikartika.jpg
+    homepage: http://learn-bahasa.com
+    social:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/yuni-kartika-459600109
+    - name: Xing
+      url: https://www.xing.com/profile/Yuni_Kartika
+    - name: Instagram
+      url: https://www.instagram.com/learnbahasawith_yuni

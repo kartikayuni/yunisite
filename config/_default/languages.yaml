@@ -13,7 +13,7 @@ en:
     languageName: English
     weight: 10
     locale: en_US
-ru:
-    languageName: Русский
-    weight: 20
-    locale: ru_RU
+#ru:
+#    languageName: Русский
+#    weight: 20
+#    locale: ru_RU

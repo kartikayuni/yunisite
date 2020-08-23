@@ -1,5 +1,5 @@
-baseURL: "http://example.com"
-title: "Example.com"
+baseURL: "http://learn-bahasa.com"
+title: "Learn-Bahasa.com"
 theme: "errorist"
 
 # This will optimize TAB-completion when using command line.

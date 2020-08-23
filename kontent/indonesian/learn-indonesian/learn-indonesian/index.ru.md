@@ -1,7 +1,6 @@
 ---
 title: "Learn Indonesian"
-linktitle: "Home"
-date: 2020-08-22T18:32:32+02:00
+date: 2020-08-22T13:56:04+02:00
 description: 
 draft: true
 ---
