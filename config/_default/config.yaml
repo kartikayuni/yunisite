@@ -7,7 +7,7 @@ theme: "errorist"
 contentDir: "kontent"
 
 # You might consider putting it outside the project directory
-publishDir: "publish"
+publishDir: "/home/yuni/kartikayuni.github.io"
 
 # This will enable adequate "dateModified" in metadata
 enableGitInfo: true
