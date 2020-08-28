@@ -3,7 +3,7 @@ title: "Online Bahasa Indonesia Lessons: Workflow, Pricing and Payment"
 linktitle: "Workflow, Pricing and Payment"
 date: 2020-08-23T09:32:42+02:00
 description: Send a message to book a lesson, pay after the lesson, and only if satisfied.
-draft: true
+draft: false
 ---
 
 If you are a new customer, just send me a message to learnbahasawith.yuni@gmail.com. Please provide

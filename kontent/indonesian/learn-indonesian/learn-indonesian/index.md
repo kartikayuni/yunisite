@@ -2,7 +2,7 @@
 title: "Learn Indonesian with a Native Speaker Online"
 date: 2020-08-22T13:56:04+02:00
 description: Individual online lessons in Bahasa Indonesia with Yuni Kartika. Pay after your lesson, and only if satisfied.
-draft: true
+draft: false
 ---
 
 ![](yuni_batik_jepara)

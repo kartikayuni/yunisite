@@ -5,7 +5,7 @@ description: Individual online lessons in Bahasa Indonesia with Yuni Kartika. Pa
 exposures:
 - major
 weight: 100
-draft: true
+draft: false
 ---
 
 I’m Yuni, a native speaker and teacher of Indonesian language, and I invite you to learn Bahasa
